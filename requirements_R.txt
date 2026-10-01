@@ -1,0 +1,8 @@
+R packages:
+readxl
+dplyr
+emmeans
+multcomp
+ggplot2
+
+install.packages(c("readxl","dplyr","emmeans","multcomp","ggplot2"))
